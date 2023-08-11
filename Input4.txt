@@ -1,0 +1,8 @@
+6
+car
+bus
+Bike
+train
+plane
+ship
+.*i.e

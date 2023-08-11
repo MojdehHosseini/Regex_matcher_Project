@@ -1,0 +1,7 @@
+5
+dog
+cat
+fish
+bird
+rat
+d*g
